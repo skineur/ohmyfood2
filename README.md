@@ -1,6 +1,9 @@
-# ohmyfood
+# Ohmyfood :plate_with_cutlery:
 Ohmyfood! est une entreprise de commande de repas en ligne. Notre concept permet aux utilisateurs de composer leur propre menu et réduire leur temps d'attente dans les
 restaurants car leur menu est préparé à l'avance. Plus de perte de temps à consulter la carte
+
+![Capture d’écran 2022-06-27 180919](https://user-images.githubusercontent.com/2298186/175997245-127a2b2e-6246-4e4e-8402-8bc79867ab3b.png)
+
 
 ## Technologies
 Le développement du site web a été réaliser sous Visual Studio Code avec les technologies
